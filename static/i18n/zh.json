@@ -1,4 +1,5 @@
 {
+
   "lang": "zh",
 
   "start": "开始游戏",
@@ -31,7 +32,7 @@
 
   "comment": "留言",
 
-  "eat-kano": "吃掉承太郎",
+  "eat-kano": "升级承太郎",
 
   "default-dfjk": "默认为DFJK",
 
@@ -63,19 +64,19 @@
 
   "repo": "仓库",
 
-  "text-level-1": "呀卡吗洗！这么平角裤还想van♂ you♂ see♂！",
+  "text-level-1": "呀嘞呀嘞daze，这么平角裤还想van♂ you♂ see♂！",
 
   "text-level-2": "平角裤平角裤！",
 
-  "text-level-3": "欧拉欧拉欧拉欧拉欧拉欧拉欧拉欧拉！",
+  "text-level-3": "欧拉欧拉欧拉欧拉欧拉欧拉！",
 
-  "text-level-4": "「白金之星·世界」",
+  "text-level-4": "「白金之星·世界」！",
 
-  "text-level-5": "「白金之星·超越天堂·绯红之王·杀手皇后·世界」",
+  "text-level-5": "「白金之星·超越天堂·绯红之王·杀手皇后·世界」！",
 
   "time-over": "倒计时多了",
 
-  "rank-title": "吃掉承太郎-排行榜",
+  "rank-title": "升级承太郎-排行榜",
 
   "query-record": "查询记录",
 
@@ -87,7 +88,7 @@
 
   "all-rank": "排行榜[总]",
 
-  "navbar-brand": "吃掉承太郎-排行榜",
+  "navbar-brand": "升级承太郎-排行榜",
 
   "daily-ranking": "日榜",
 
@@ -113,12 +114,4 @@
 
   "no-name-tip": "提示：你玩之前还没有填名字"
 
-}
-  "query-input": "要查询的名字",
-  "search-btn": "查询",
-  "no-data": "现在还没有数据",
-  "no-message": "这个人很懒什么也没留下",
-  "self-record": "{name} 的最高记录. 已上传 {attempts} 次<br/>SCORE:{score} {time}",
-  "no-self-record": "没有找到 {name} 的记录(或被过滤)",
-  "no-name-tip": "提示：你玩之前还没有填名字"
 }
