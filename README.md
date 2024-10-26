@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatJotaro
 
 _🦌 网页小游戏 🥛_
 
@@ -12,11 +12,11 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉承太郎
 
 [English](README_EN.md)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[火柴棒b站](https://space.bilibili.com/402201442)
 |
 [线上版本](https://xingye.me/game/eatkano/index.php)
 |
